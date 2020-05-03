@@ -1,0 +1,15 @@
+fieldset {
+    background-color:royalblue;
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.topBar {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+table {
+    border-spacing: 1rem;
+}
