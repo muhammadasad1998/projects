@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(224, 138, 7);
+}
+.assignment {
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.assign {
+    width: 85%;
+	border: 1px solid white;
+	padding: 3% 2%;
+	margin: 5% 5%;
+	box-shadow: 0px 2px 8px 5px #D7DBDD;
+	background-color: white;
+}
+.assign:hover{
+    transition: 0.7s;
+	transform: scale(1.1);
+
+}
+.intro{
+    width: 50%;
+    box-shadow: 0px 2px 8px 5px #D7DBDD;
+    background-color: white;
+}
+.intro:hover{
+    transition: 0.7s;
+	transform: scale(1.1);
+}
